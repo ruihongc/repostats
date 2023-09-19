@@ -18,3 +18,5 @@ Whether a file existed, came into existence, ceased to exist or never existed wi
 ./repo.py: generator function to process a local git repo using pydriller
 
 ./main.ipynb: walkthrough of features and specification
+
+./algorithm.pdf: a presentation I gave explaining the algorithm developed
